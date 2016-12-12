@@ -2,31 +2,14 @@
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
 [0m[[0mdebug[0m] [0m	added: Set()[0m
-[0m[[0mdebug[0m] [0m	modified: Set(/Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Parser.scala)[0m
-[0m[[0mdebug[0m] [0mRemoved products: Set(/Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Ranking$.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Team.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/GameState$LOSE$.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/GameState.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Ranking.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/GameState$WIN$.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/main/Main$.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Parser.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Result.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Team$.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/GameState$DRAW$.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Parser$.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Match.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/main/Main.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Match$.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/Result$.class, /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes/models/GameState$.class)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Parser.scala)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m	product: Set(/Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Ranking.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/GameState.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Parser.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Match.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Result.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/main/Main.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Team.scala)[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Ranking.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/GameState.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Parser.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Match.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Result.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/main/Main.scala, /Users/ivanmay/Dev/personal/span/src/main/scala-2.12/models/Team.scala)[0m
-[0m[[0mdebug[0m] [0mRecompiling all 7 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 7 Scala sources to /Users/ivanmay/Dev/personal/span/target/scala-2.12/classes...[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.1[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.1[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 3d28c46c, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/classes:/Users/ivanmay/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/Users/ivanmay/Dev/personal/span/target/scala-2.12/classes[0m
-[0m[[0mdebug[0m] [0mScala compilation took 9.044156682 s[0m
-[0m[[0mdebug[0m] [0mNew invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
-[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m

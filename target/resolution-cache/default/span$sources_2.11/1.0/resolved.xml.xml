@@ -4,7 +4,7 @@
 		module="span$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20161212221609"
+		publication="20161212231341"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
